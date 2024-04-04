@@ -1,13 +1,13 @@
 # odin-recipes
 
-For building a local 'recipes' web site as part of TOP.
+I'm building a local 'recipes' web site as part of The ODIN Project (TOP).
 This is also my first use of 'markdown' so I'll learn as I go.
 
 ## Website Construction Thoughts
 
-- Get example recipes off the web that PKM likes
+- Get example recipes off the web that my spouse likes
 
-- Save the links but also download the external pages to the local machine so it can be used offline
+- Save the links but also download the external pages to my local machine so they can be used offline
 
 - Add a sort option
 
@@ -15,4 +15,4 @@ This is also my first use of 'markdown' so I'll learn as I go.
 
 - Include pictures/images
 
-- Cover the top rated recipes sites
+- Include content from top-rated recipes sites
